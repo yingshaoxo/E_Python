@@ -3,4 +3,4 @@
 
 https://t.me/EasyProgrammingLanguage
 
-![](screenshot.png)
+![](screenshot.bmp)
